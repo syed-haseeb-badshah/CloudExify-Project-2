@@ -1,0 +1,29 @@
+============================================================
+CUSTOMER SEGMENTATION ANALYSIS REPORT
+============================================================
+Total customers analyzed: 600
+Total revenue in the data: Rs 43,380,852
+Clusters (K): 4, chosen with elbow + silhouette
+
+SEGMENT SUMMARY
+------------------------------------------------------------
+VIP         |   67 customers (11.2%) | avg spend Rs    415,832
+            | Recency 22 days, Frequency 30.0 purchases, 64.2% of revenue
+Loyal       |  179 customers (29.8%) | avg spend Rs     68,121
+            | Recency 52 days, Frequency 11.0 purchases, 28.1% of revenue
+Occasional  |  242 customers (40.3%) | avg spend Rs     11,384
+            | Recency 155 days, Frequency 4.0 purchases, 6.4% of revenue
+Lapsed      |  112 customers (18.7%) | avg spend Rs      5,103
+            | Recency 371 days, Frequency 2.0 purchases, 1.3% of revenue
+
+RECOMMENDATIONS
+------------------------------------------------------------
+VIP:
+  Best customers: recent, frequent, high spenders. Give them VIP treatment, early access and exclusive offers to keep them.
+Loyal:
+  Reliable repeat buyers. Reward them with a loyalty programme and gentle upselling to move them toward VIP.
+Occasional:
+  Buy sometimes and spend moderately. Targeted campaigns and bundle offers can increase how often they buy.
+Lapsed:
+  Have not bought in a long time. Win-back emails, special discounts and re-engagement offers to bring them back.
+============================================================
