@@ -1,6 +1,8 @@
 # CloudExify Data Science Internship 2026 — Month 1 (Final Submission)
 
 **Name:** Syed Haseeb Badshah
+## description
+A two-part data analysis project. The first component cleans raw sales data (handling duplicates and missing values), then aggregates and visualizes revenue trends by month, category, and region. The second component computes RFM (Recency, Frequency, Monetary) scores for each customer, scales the features, and applies K-Means clustering to group customers into segments — with the optimal number of clusters chosen using the elbow method and silhouette scores, and clusters automatically labeled by spend level rather than arbitrary cluster numbers.
 
 Two projects in one repository:
 
